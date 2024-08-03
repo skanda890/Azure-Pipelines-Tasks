@@ -2,7 +2,7 @@
   "name": "AzureResourceManagerTemplateDeployment",
   "main": "main.js",
   "dependencies": {
-    "@types/node": "^20.3.1",
+    "@types/node": "^20.14.10",
     "agent-base": "^6.0.2",
     "azure-pipelines-task-lib": "^4.11.0",
     "azure-pipelines-tasks-artifacts-common": "^2.225.0",
