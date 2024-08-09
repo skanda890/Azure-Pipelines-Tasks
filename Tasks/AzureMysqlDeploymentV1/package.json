@@ -19,7 +19,7 @@
   "dependencies": {
     "@types/mocha": "^5.2.7",
     "@types/node": "16.18.103",
-    "@types/q": "1.0.7",
+    "@types/q": "1.5.8",
     "agent-base": "^6.0.2",
     "azure-pipelines-task-lib": "4.11.0",
     "azure-pipelines-tasks-azure-arm-rest": "^3.242.2",
@@ -29,8 +29,8 @@
     "moment": "^2.29.4",
     "normalize-path": "2.0.1",
     "q": "1.4.1",
-    "semver": "5.4.1",
-    "tar-stream": "1.5.2",
+    "semver": "5.7.2",
+    "tar-stream": "1.6.2",
     "winreg": "1.2.2",
     "zip-stream": "1.1.0"
   },
