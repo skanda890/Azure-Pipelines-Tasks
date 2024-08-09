@@ -20,7 +20,7 @@
     "@types/node": "^20.14.10",
     "azure-pipelines-task-lib": "^4.7.0",
     "azure-pipelines-tasks-packaging-common": "3.221.1",
-    "azure-pipelines-tasks-utility-common": "^3.0.3",
+    "azure-pipelines-tasks-utility-common": "^3.242.0",
     "xmlreader": "^0.2.3"
   },
   "devDependencies": {
